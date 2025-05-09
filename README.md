@@ -15,6 +15,4 @@ Importante: Archivo application.properties
 
       y ademas estan las variables de la base de datos en memoria.
 
-Conclusión:
-      El token es generado una vez creeado el usuario.
-      NO ME QUEDO CLARO SI LA API DEBIESE TENER AUTORIZACIÓN (SI ASI NO ESTA EL DESARROLLO), pero se podria realizar.
+
